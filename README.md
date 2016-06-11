@@ -1,7 +1,7 @@
 [![Stories in Ready](https://badge.waffle.io/zhukov/webogram.png?label=ready&title=Ready)](https://waffle.io/zhukov/webogram)
 ## [Webogram](https://web.telegram.org) — Plus Messenger Web App - BETA
 
-Telegram offers great [apps for mobile communication](https://www.telegram.org). It is based on the [MTProto protocol](https://core.telegram.org/mtproto) and has an [Open API](https://core.telegram.org/api). I personally like Telegram for its speed and cloud-support (that makes a web app possible, unlike in the case of WA and others).
+Plus Messenger offers great [apps for mobile communication](https://www.plusmessenger.org). It is based on the [MTProto protocol](https://core.telegram.org/mtproto) and has an [Open API](https://core.telegram.org/api). I personally like Telegram for its speed and cloud-support (that makes a web app possible, unlike in the case of WA and others).
 
 MTProto data can be carried over HTTP (SSL is also supported), so this project is my take at creating one.
 
